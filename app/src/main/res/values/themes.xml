@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.IVACDualSIMOTP" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_emerald</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+    </style>
+</resources>
